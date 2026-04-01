@@ -118,3 +118,11 @@ The MLflow UI was used to compare models and confirm experiment tracking consist
 ## Conclusion
 
 This project demonstrates a full machine learning pipeline using Databricks and Spark MLlib, from data preprocessing to model evaluation and experiment tracking. Logistic Regression proved to be the most effective model for this dataset due to its balance of accuracy and interpretability.
+
+
+---
+
+## Author
+Ross Schanck  
+M.S. Data Science
+
